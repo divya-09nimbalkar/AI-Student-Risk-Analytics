@@ -13,11 +13,17 @@ Users upload a student dataset (or use the built-in 800-student demo), select a 
 **Key Features**
 
 4 ML Algorithms — Random Forest, Gradient Boosting, Logistic Regression, SVM
+
 Interactive Dashboard — 5 tabs covering EDA, training, prediction, and explainability
+
 Per-Student Prediction — Fill a form and get an instant outcome with class probabilities
+
 Feature Importance — Permutation-based explainability showing what drives predictions
+
 Export Reports — Download styled HTML and PDF reports with embedded charts
+
 Secure Auth — User registration and login with bcrypt-hashed passwords
+
 
 **Tech Stack**
 
